@@ -1,0 +1,15 @@
+npm install http-status-codes
+
+npm install dotenv
+
+npm i mongoose
+
+npm install joi
+
+npm install express-jwt
+
+npm i mongoose
+
+npm i -D @types/express
+
+npm i -D node-ts nodemon
